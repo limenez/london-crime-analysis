@@ -1,0 +1,1 @@
+SELECT * FROM `london_crime.crimes`
